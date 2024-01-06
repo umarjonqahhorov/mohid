@@ -1,0 +1,56 @@
+/*  //// subscribe qismi uchun /// */
+.subscribe {
+  background: #0b0b0b;
+}
+.subscribe-main {
+  display: flex;
+  padding-top: 120px;
+  padding-bottom: 180px;
+  align-items: center;
+  /* gap: 184px; */
+}
+.subscribe-title {
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 125.5%;
+}
+.subscribe-par {
+  color: #8b8e99;
+  font-size: 16px;
+  margin: 20px 0;
+  font-weight: 500;
+  line-height: 125.5%;
+}
+.input-section {
+  width: 443px;
+  display: flex;
+  padding-top: 19px;
+  padding-left: 19px;
+  padding-bottom: 19px;
+  padding-right: 3px;
+  align-items: center;
+  border-radius: 15px;
+  background: #fff;
+}
+.btn-1 {
+  color: #fff;
+  font-size: 18px;
+  width: 112px;
+  height: 45px;
+  border-radius: 10px;
+  background-color: #3858d6;
+  font-weight: 600;
+}
+#text {
+  color: rgba(139, 142, 153, 0.7);
+  font-size: 16px;
+  width: 201px;
+  height: 21px;
+  margin-right: 50px;
+  font-weight: 500;
+}
+.input-section img {
+  margin-right: 16px;
+}
